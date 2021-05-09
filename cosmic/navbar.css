@@ -66,6 +66,10 @@
     font-weight: 300 !important;
     font-size: 16px !important;
 }
+.notion-root:first-child > blockquote:first-of-type .notion-semantic-string .link:hover{
+    opacity: 1;
+    color: var(--color-text-purple);
+}
 .notion-root:first-child > blockquote:first-of-type {
     padding: 0 var(--padding-right) 0 0 !important;
     height: var(--navbar-height) !important;
