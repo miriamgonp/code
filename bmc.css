@@ -1,0 +1,6 @@
+/* Hide bmc widget in mobile */
+@media (max-width: 42em) {
+#bmc-wbtn {
+display: none !important;
+}
+}
