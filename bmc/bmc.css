@@ -16,6 +16,21 @@ display: none !important;
     background: #704ae9  !important;
 }
 
+#block-4d7e7a3e13a7446b8f172bf521f79f30 a {
+    letter-spacing: -0.5px !important;
+    padding: 0 0 2px 66px !important;
+    align-items: center !important;
+    position: absolute !important;
+    font-weight: 600 !important;
+    display: flex !important;
+    border: none !important;
+    color: #fff !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    left: 0 !important;
+    top: 0 !important;
+}
+
 /* .notion-callout a[href*="buymeacoffee"] {
     letter-spacing: -0.5px !important;
     padding: 0 0 2px 66px !important;
